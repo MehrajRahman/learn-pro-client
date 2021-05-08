@@ -1,0 +1,16 @@
+.main-logo{
+    font-weight: 800;
+    font-size: 24px;
+}
+.logo{
+    color: lightseagreen;
+}
+.navbar-nav .nav-item .nav-link{
+    color: skyblue;
+}
+.nav-link{
+    color: white;
+}
+#name{
+    color: lightseagreen;
+}

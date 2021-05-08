@@ -1,0 +1,23 @@
+.footer{
+    min-height: 400px;
+    background: lightseagreen;
+}
+ul li{
+    list-style: none;
+}
+h2{
+    color: white;
+}
+ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+    text-align: start;
+}
+.icon{
+    border: 1px solid white;
+    color: #111;
+    background: white;
+    padding: 5px;
+    box-sizing: content-box;
+    border-radius: 5px;
+}

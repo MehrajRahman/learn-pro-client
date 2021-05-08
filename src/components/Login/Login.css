@@ -1,0 +1,18 @@
+.login-body{
+    background: linear-gradient(45deg, #04011d, #022333);
+    
+    height: 100vh;
+}
+  
+  .btn-google {
+    color: white;
+    background-color: #ea4335;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  /* Fallback for Edge
+  -------------------------------------------------- */
+  
+ 
